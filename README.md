@@ -1,7 +1,6 @@
-# Music-bot
-A complete code to download for a music bot. Using a module (discord-player) 🎧
+# Synthwave Music Bot using Discord JS
+A complete music-only discord bot, ready to go! 🎧
 
-Looking for a code for a music bot ? This fully open source code is made for your !
 Warning, this code uses the v12 of the Discord.js module. Previous versions such as (11.5.1, 11.5.0 or other) will not be supported.
 
 Well, let's start by downloading the code.
@@ -52,7 +51,7 @@ pm2 start index.js --name "MusicBot"
 
 All you have to do is turn on your bot !
 
-### 🎵 Music commands
+### 🎵 Music Commands
 
 ```
 play <name>, play music in a vocal salon.
@@ -69,15 +68,11 @@ w-filters, see filters.
 clear-queue, delete the next music.
 ```
 
-### 💡 General commands
+### 💡 General Commands
 
 ```
 help, see the list of available orders.
 ping, see the bot latency.
 ```
-
-Utilities (to change the code) :
-
-Find all the functions available on the official code [right here](https://github.com/Androz2091/discord-player).
 
 This is used with [discord.js](https://www.npmjs.com/package/discord.js) and [discord-player](https://www.npmjs.com/package/discord-player).
